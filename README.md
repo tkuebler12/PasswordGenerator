@@ -1,2 +1,3 @@
 # PasswordGenerator
 Homework 3 random password generator 
+This activity is designed to help me understand JavaScript and some of its functions. By making a password generator, I can provide a useful skill to employers by creating secure passwords for users' privacy. Using JS for a password generator also allows me to understand JS functions and variables to implement JS into predetermined CSS and HTML files.
